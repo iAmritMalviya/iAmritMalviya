@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [backstage.io](backstage.io) A developer portal developed by spotify.
-- 🌱 I’m currently learning Typescript, Postgresql, Redpanda, Docker
-- 👯 I’m looking to collaborate on some exciting open source codebase.
+- 🌱 I’m currently learning Typescript, Postgresql, Redpanda, Docker & DSA
+- 👯 I’m looking to collaborate on some exciting open-source codebase.
 - 💬 Ask me about nothing
 - 📫 How to reach me: why to reach me?
 - ⚡ Fun fact: Fun + Code
