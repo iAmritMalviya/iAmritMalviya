@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 
+![Visitor Count](https://profile-counter.glitch.me/iAmritMalviya/count.svg)
 
 
 Here are some ideas to get you started:
