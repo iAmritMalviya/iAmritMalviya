@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iAmritMalviya&label=Profile%20views&color=0e75b6&style=flat" alt="Amrit Malviya" /> </p>
 
 
-- 🔭 I’m currently working on [backstage.io](backstage.io) A developer portal developed by spotify.
-- 🌱 I’m currently learning Typescript, Postgresql, Redpanda, Docker & DSA
+- 🔭 I’m currently working on Agentic AI.
+- 🌱 I’m currently learning System Design & DSA
 - 👯 I’m looking to collaborate on some exciting open-source codebase.
 - 💬 Ask me about nothing
 - 📫 How to reach me: why to reach me?
