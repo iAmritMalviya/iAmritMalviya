@@ -14,4 +14,4 @@
 
 ![AmritMalviya GitHub stats](https://github-readme-stats.vercel.app/api?username=iAmritMalviya&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iAmritMalviya&layout=compact&theme=radical))](https://github.com/iAmritMalviya/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iAmritMalviya&layout=compact&theme=radical)](https://github.com/iAmritMalviya/github-readme-stats)
